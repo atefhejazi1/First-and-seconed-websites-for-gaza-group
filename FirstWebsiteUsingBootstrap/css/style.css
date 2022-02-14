@@ -1,0 +1,88 @@
+.navbar .navbar-brand {
+    color: #dc3545;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.navbar .navbar-brand:hover {
+    color: #198754;
+}
+
+.navbar .navbar-collapse .navbar-nav .nav-item .nav-link {
+    color: #fff;
+    font-weight: bold;
+    font-size: 17px;
+    margin: 0 5px;
+}
+
+.navbar .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
+    color: #dc3545;
+}
+
+.navbar .navbar-collapse .navbar-nav .nav-item .active {
+    color: #dc3545;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.hero-section .carousel .carousel-inner .carousel-item img {
+    height: 92vh;
+}
+
+.about-me {
+    padding: 80px 0;
+}
+
+.about-me h2 {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #198754;
+}
+
+.programming-acadimic {
+    margin: 40px 0;
+}
+
+.programming-acadimic h2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #198754;
+}
+
+.programming-acadimic button {
+    margin-bottom: 20px;
+}
+
+.blog {
+    padding: 40px 0;
+}
+
+.blog h2 {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #198754;
+}
+
+.blog .card {
+    margin-bottom: 20px;
+}
+
+.blog .card img {
+    height: 250px;
+}
+
+footer {
+    background-color: #000;
+    padding: 40px 0;
+}
+
+footer label {
+    color: white;
+}
+
+footer p {
+    color: #fff;
+    padding-top: 20px;
+}
